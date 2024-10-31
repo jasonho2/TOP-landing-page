@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.header-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #1f2937;
+    font-family: Roboto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-top-left {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+.header-title {
+    color: #f9faf8;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 4px;
+}
+
+.header-logo {
+    max-height: 124px;
+    padding: 4px;
+}
+
+.header-links {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 18px;
+    color: #f9faf8;
+    margin: 16px;
+}
+
+.header-summary {
+    display: flex;
+}
+
+.header-summary-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+    align-content: flex-start;
+    margin: 16px 32px;
+}
+
+.header-summary-title {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.header-summary-description {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.header-image { /* need to work on the auto sizing upon window shaping */
+    max-height: 250px;
+    overflow: auto;
+    margin: 8px;
+    flex-shrink: 0;
+    justify-content: flex-end;
+}
+
+ul {
+    list-style-type: none;
+    gap: 24px;
+}
+
