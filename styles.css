@@ -15,7 +15,7 @@
 .header-top-left {
     display: flex;
     flex-direction: row-reverse;
-    align-items: center;
+    align-items: flex-end;
 }
 
 .header-title {
@@ -23,18 +23,18 @@
     font-family: Roboto;
     font-size: 24px;
     font-weight: bold;
-    padding: 4px;
+    padding: 16px;
 }
 
 .header-logo {
-    max-height: 124px;
-    padding: 4px;
+    max-height: 72px;
+    margin: 8px 16px;
 }
 
 .header-links {
     display: flex;
     justify-content: flex-end;
-    align-items: center;
+    align-items: flex-end;
     font-size: 18px;
     color: #f9faf8;
     margin: 16px;
@@ -50,7 +50,7 @@
     justify-content: space-around;
     align-items: flex-start;
     align-content: flex-start;
-    margin: 16px 32px;
+    margin: 16px;
 }
 
 .header-summary-title {
