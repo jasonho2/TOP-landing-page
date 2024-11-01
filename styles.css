@@ -197,6 +197,11 @@ ul {
 
 a {
     font-family: Roboto, sans-serif;
+    color: #1f2937;
+}
+
+.link-home-nav {
+    font-family: Roboto, sans-serif;
     text-decoration: none;
     color: #1f2937;
 }
