@@ -13,7 +13,12 @@
     display: flex;
     justify-content: space-between;
 }
-
+/* trying to lock the top of the header in place such that scrolling will keep it fixed at the top, without the rest of the header description to stick.
+#header-freeze {
+    position: fixed;
+    top: 0px;
+}
+*/
 .header-top-left {
     display: flex;
     flex-direction: row-reverse;
@@ -103,10 +108,12 @@
 .destinations {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     gap: 32px;
-    margin: 16px;
+    padding-left: 48px;
+    padding-right: 48px;
+    padding-bottom: 96px;
 }
 
 .destination-name {
@@ -118,6 +125,41 @@
     max-height: 150px;
 }
 
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #e5e7eb;
+    padding: 72px 144px;
+}
+
+.quote-item {
+    padding: 0px;
+}
+
+.quote-author {
+    padding: 4px 16px;
+    display: flex;
+    justify-content: flex-end;
+    font-weight: bold;
+    margin-bottom: 36px;
+}
+
+.page-content-container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-family: Roboto;
+}
+
+.content-section-title {
+    color: #1f2937;
+    font-size: 24px;
+    font-weight: 900;
+    margin: 16px;
+}
+
+
 /* CONTENT END */
 
 ul {
@@ -125,3 +167,21 @@ ul {
     gap: 24px;
 }
 
+a {
+    font-family: Roboto, sans-serif;
+    text-decoration: none;
+    color: #1f2937;
+}
+
+a:hover {
+    color: #ff9900;
+}
+
+button {
+    font-family: Roboto, sans-serif;
+    color: #1f2937;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    background: white;
+}
