@@ -219,6 +219,12 @@ a {
     color: #1f2937;
 }
 
+.link-home-header {
+    font-family: Roboto, sans-serif;
+    text-decoration: none;
+    color: #f9faf8;
+}
+
 .link-home-nav {
     font-family: Roboto, sans-serif;
     text-decoration: none;
