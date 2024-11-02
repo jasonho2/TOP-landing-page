@@ -156,8 +156,10 @@
 .page-content-container {
     display: flex;
     justify-content: flex-start;
-    align-items: center;
+    align-items: flex-start;
     font-family: Roboto;
+    color: #1f2937;
+    font-size: 18px;
 }
 
 .page-content{
@@ -165,6 +167,7 @@
     flex-direction: column;
     color: #1f2937;
     font-size: 18px;
+    flex-shrink: 1;
 }
 
 .page-list {
@@ -172,6 +175,22 @@
     flex-direction: column;
     gap: 16px;
 }
+
+.page-images {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 8px;
+    margin-left: 48px;
+    flex-shrink: 0;
+}
+
+.card {
+    max-width: 220px;
+    padding-top: 8px;
+    margin: 8px;
+  }
 
 /* CONTENT END */
 /* FOOTER START*/
