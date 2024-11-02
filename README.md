@@ -10,6 +10,7 @@ Image credits:
     - https://rove.me/to/norway/finnbiff-or-reindeer-stew
     - https://www.airbnb.com/rooms/13489685?adults=12&category_tag=Tag%3A7769&enable_m3_private_room=true&photo_id=1685857693&search_mode=regular_search&check_in=2025-10-06&check_out=2025-10-16&source_impression_id=p3_1730506817_P3OxWLNM_ScTurLJ&previous_page_section_name=1000&federated_search_id=8bdbaae4-0246-41cf-bcef-e1ef0f89cf2b
     - https://www.airbnb.com/rooms/22513444?adults=12&category_tag=Tag%3A789&enable_m3_private_room=true&photo_id=801316180&search_mode=regular_search&check_in=2025-10-06&check_out=2025-10-16&source_impression_id=p3_1730506975_P3_HuxDgYcH0femR&previous_page_section_name=1000&federated_search_id=58b65318-ee55-42f5-a2d9-584eac638e25
+    - https://www.lifeinnorway.net/glaciers-in-norway/
     
 - Canada: my mom :)
 - Thailand: https://stock.adobe.com/search?k=thailand
