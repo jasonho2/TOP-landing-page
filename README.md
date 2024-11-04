@@ -18,5 +18,6 @@ Image credits:
 - Canada: my mom :)
 - Thailand: https://stock.adobe.com/search?k=thailand
     - https://www.thethailandlife.com/map-of-thailand
+    - https://stock.adobe.com/search?k=maya+bay+thailand
     
 - Patagonia: https://stock.adobe.com/search?k=patagonia

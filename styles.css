@@ -179,15 +179,21 @@
 .page-images {
     display: flex;
     flex-wrap: wrap;
+    justify-content: flex-end;
     gap: 8px;
-    margin-left: 48px;
 }
 
-.card {
-    max-width: 280px;
+.horizontal-card {
+    max-height: 180px;
+    padding-top: 8px;
+    margin: 8px;  
+}
+
+.vertical-card {
+    max-width: 300px;
     padding-top: 8px;
     margin: 8px;
-  }
+}
 
 /* CONTENT END */
 /* FOOTER START*/
