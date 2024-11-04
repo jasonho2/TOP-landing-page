@@ -178,16 +178,13 @@
 
 .page-images {
     display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: flex-start;
+    flex-wrap: wrap;
     gap: 8px;
     margin-left: 48px;
-    flex-shrink: 0;
 }
 
 .card {
-    max-width: 220px;
+    max-width: 280px;
     padding-top: 8px;
     margin: 8px;
   }

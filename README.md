@@ -14,7 +14,9 @@ Image credits:
 
 - Iceland
     - https://stock.adobe.com/search?k=%22diamond+beach%22
-    
+
 - Canada: my mom :)
 - Thailand: https://stock.adobe.com/search?k=thailand
+    - https://www.thethailandlife.com/map-of-thailand
+    
 - Patagonia: https://stock.adobe.com/search?k=patagonia
