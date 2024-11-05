@@ -94,8 +94,6 @@
 .content {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
     font-family: Roboto;
 }
 
@@ -167,7 +165,6 @@
     flex-direction: column;
     color: #1f2937;
     font-size: 18px;
-    flex-shrink: auto;
 }
 
 .page-list {
@@ -181,16 +178,17 @@
     flex-wrap: wrap;
     justify-content: flex-end;
     gap: 8px;
+    flex-shrink: 2;
 }
 
 .horizontal-card {
-    max-height: 150px;
+    max-height: 180px;
     padding-top: 8px;
     margin: 8px;  
 }
 
 .vertical-card {
-    max-width: 300px;
+    max-width: 250px;
     padding-top: 8px;
     margin: 8px;
 }

@@ -19,5 +19,10 @@ Image credits:
 - Thailand: https://stock.adobe.com/search?k=thailand
     - https://www.thethailandlife.com/map-of-thailand
     - https://stock.adobe.com/search?k=maya+bay+thailand
-    
+    - https://www.gettyimages.com/photos/wat-rong-khun
+    - https://howwetravelled.com/phraya-nakhon-cave/
+    - https://www.odynovotours.com/thailand/elephant-sanctuaries.html
+    - https://lubd.com/10-best-pad-thais-in-bangkok-that-you-cannot-miss/
+    - https://www.eatingthaifood.com/
+    - https://www.eatingthaifood.com/thai-green-curry-recipe/
 - Patagonia: https://stock.adobe.com/search?k=patagonia
