@@ -25,4 +25,14 @@ Image credits:
     - https://lubd.com/10-best-pad-thais-in-bangkok-that-you-cannot-miss/
     - https://www.eatingthaifood.com/
     - https://www.eatingthaifood.com/thai-green-curry-recipe/
+    - https://www.thailandretreats.com/Villa/Twin-Villas-Natai
+    - https://matadornetwork.com/read/rooftop-bars-bangkok/
+    - https://www.tenminutetravelbreak.com/water-taxis-in-bangkok/
+    - https://trevallog.com/bangkok-river-boat-ferry/
+    - https://www.google.com/maps/d/u/1/viewer?mid=1x23mggvaMzkXSNfV8oJRS1FC24ED_Wk&ll=13.817062272056104%2C100.57151458813264&z=12
+    - https://www.renown-travel.com/btsskytrain.html
+    - https://touristbangkok.com/city-transport/bts-skytrain-bangkok/
+    - https://www.audleytravel.com/us/thailand/places-to-go/khao-sok-national-park
+    - https://www.tripsavvy.com/complete-guide-doi-inthanon-national-park-4178430
+    - https://www.thainationalparks.com/erawan-national-park, https://www.tripoto.com/thailand/places-to-visit/erawan-national-park 
 - Patagonia: https://stock.adobe.com/search?k=patagonia

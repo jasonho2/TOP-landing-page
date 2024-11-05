@@ -176,19 +176,19 @@
 .page-images {
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-end;
+    justify-content: center;
     gap: 8px;
     flex-shrink: 2;
 }
 
 .horizontal-card {
-    max-height: 180px;
+    max-height: 200px;
     padding-top: 8px;
     margin: 8px;  
 }
 
 .vertical-card {
-    max-width: 250px;
+    max-width: 280px;
     padding-top: 8px;
     margin: 8px;
 }
