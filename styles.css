@@ -165,6 +165,7 @@
     flex-direction: column;
     color: #1f2937;
     font-size: 18px;
+    max-width: 680px;
 }
 
 .page-list {
@@ -182,7 +183,7 @@
 }
 
 .horizontal-card {
-    max-height: 200px;
+    max-height: 180px;
     padding-top: 8px;
     margin: 8px;  
 }

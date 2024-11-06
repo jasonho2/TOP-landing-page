@@ -36,3 +36,7 @@ Image credits:
     - https://www.tripsavvy.com/complete-guide-doi-inthanon-national-park-4178430
     - https://www.thainationalparks.com/erawan-national-park, https://www.tripoto.com/thailand/places-to-visit/erawan-national-park 
 - Patagonia: https://stock.adobe.com/search?k=patagonia
+    - https://www.blacktomato.com/inspirations/perito-moreno-glacier-patagonia-argentina-guide/
+    - https://www.nationalgeographic.com/travel/article/torres-del-paine-national-park-photos
+    - https://www.ecocamp.travel/en/domes/suite
+    - 
