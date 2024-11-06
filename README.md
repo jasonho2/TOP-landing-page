@@ -39,4 +39,5 @@ Image credits:
     - https://www.blacktomato.com/inspirations/perito-moreno-glacier-patagonia-argentina-guide/
     - https://www.nationalgeographic.com/travel/article/torres-del-paine-national-park-photos
     - https://www.ecocamp.travel/en/domes/suite
-    - 
+    - https://www.wanderlustdesigners.com/refugios-campsites-in-torres-del-paine/
+    - https://www.intrepidtravel.com/adventures/ushuaia-argentina-worlds-southernmost-city/
