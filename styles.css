@@ -101,14 +101,13 @@
     color: #1f2937;
     font-size: 36px;
     font-weight: 900;
-    margin: 16px;
+    margin-bottom: 16px;
 }
 
 .content-section-title {
     color: #1f2937;
     font-size: 24px;
     font-weight: 900;
-    margin: 16px;
 }
 
 .destinations {
@@ -166,6 +165,7 @@
     color: #1f2937;
     font-size: 18px;
     max-width: 680px;
+    padding: 16px;
 }
 
 .page-list {
