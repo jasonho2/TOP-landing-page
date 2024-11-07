@@ -7,18 +7,27 @@
     flex-direction: column;
     background-color: #1f2937;
     font-family: Roboto;
+    /*
+    padding-top: 88px;
+    width: 100%;
+    */
 }
 
 .header {
     display: flex;
     justify-content: space-between;
-}
-/* trying to lock the top of the header in place such that scrolling will keep it fixed at the top, without the rest of the header description to stick.
-#header-freeze {
+    background-color: #1f2937;
+    font-family: Roboto;
+    /* sets the website header bar at the top in a fixed position, filling in left, top, and right endges. But I want the edged to match the other header container. 
     position: fixed;
-    top: 0px;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 88px;
+    */
 }
-*/
+
 .header-top-left {
     display: flex;
     flex-direction: row-reverse;
