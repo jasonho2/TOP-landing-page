@@ -194,6 +194,15 @@
     margin: 8px;
 }
 
+/* FOOTER PAGE NAVIGATION Flexbox */
+
+.bottom-nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 32px;
+    margin-bottom: 8px;
+}
+
 /* CONTENT END */
 /* FOOTER START*/
 
@@ -243,5 +252,44 @@ button {
     font-size: 18px;
     border: none;
     border-radius: 8px;
+    cursor: pointer;
     background: white;
+}
+
+/*----- button 1, trying this to add cool button effects [NOT IN USE] -----*/
+.btn-1::before, .btn-1::after{
+    transition-delay: 0.2s;
+}
+
+.btn-1 span::before, .btn-1 span::after{
+    transition-delay: 0s;
+}
+
+.btn-1::before{
+    right: 0;
+    top: 0;
+}
+
+.btn-1::after{
+    left: 0;
+    bottom: 0;
+    outline-color: #1f2937;
+}
+
+.btn-1 span::before{
+    left: 0;
+    top: 0;
+}
+
+.btn-1 span::after{
+    right: 0;
+    bottom: 0;
+}
+
+.btn-1:hover::before, .btn-1:hover::after{
+    transition-delay: 0s;
+}
+
+.btn-1:hover span::before, .btn-1:hover span::after{
+    transition-delay: 0.2s;
 }
