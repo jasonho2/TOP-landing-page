@@ -16,7 +16,7 @@ Image credits:
     - https://stock.adobe.com/search?k=%22diamond+beach%22
     - https://stock.adobe.com/search?k=waterfall+iceland
     - https://stock.adobe.com/search?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Avideo%5D=1&filters%5Bcontent_type%3Atemplate%5D=1&filters%5Bcontent_type%3A3d%5D=1&filters%5Bcontent_type%3Aaudio%5D=0&filters%5Binclude_stock_enterprise%5D=0&filters%5Bis_editorial%5D=0&filters%5Bfree_collection%5D=0&filters%5Bcontent_type%3Aimage%5D=1&k=iceland&order=relevance&search_page=1&search_type=usertyped&acp=&aco=iceland&get_facets=0
-    
+
 - Canada: my mom :)
 - Thailand: https://stock.adobe.com/search?k=thailand
     - https://www.thethailandlife.com/map-of-thailand
@@ -37,9 +37,11 @@ Image credits:
     - https://www.audleytravel.com/us/thailand/places-to-go/khao-sok-national-park
     - https://www.tripsavvy.com/complete-guide-doi-inthanon-national-park-4178430
     - https://www.thainationalparks.com/erawan-national-park, https://www.tripoto.com/thailand/places-to-visit/erawan-national-park 
+
 - Patagonia: https://stock.adobe.com/search?k=patagonia
     - https://www.blacktomato.com/inspirations/perito-moreno-glacier-patagonia-argentina-guide/
     - https://www.nationalgeographic.com/travel/article/torres-del-paine-national-park-photos
     - https://www.ecocamp.travel/en/domes/suite
     - https://www.wanderlustdesigners.com/refugios-campsites-in-torres-del-paine/
     - https://www.intrepidtravel.com/adventures/ushuaia-argentina-worlds-southernmost-city/
+    - https://operation-adventure.com/torres-del-paine-trek-o-route/
